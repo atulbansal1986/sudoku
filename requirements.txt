@@ -1,1 +1,2 @@
 python-sat[pblib,aiger]
+z3-solver
